@@ -1,6 +1,6 @@
 CONTROLE DE VENDAS PIZZAS
 Pizzaria: Pizza Alegre
-Versao: 004
+Versao: 003
 Operador:
 
 
