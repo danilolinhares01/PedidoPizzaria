@@ -9,4 +9,4 @@ Cliente
 CPF:
 E-mail:
 
-Aceita participar de promoções:? 9 ( ) Sim ( )Não
+Aceita participar de promoções:?  ( ) Sim ( )Não.
